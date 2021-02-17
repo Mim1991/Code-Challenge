@@ -1,3 +1,7 @@
+# Code Challenge  
+
+I've included my code for the three tests in the index.js file with some unit tests using jest.
+
 # Limesharp Developer Test
 
 Please, **don't fork this repo**, clone it or download it locally and then commit changes after each task into a new repo of your own, and send us the link. We will get back to you shortly. 
